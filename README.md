@@ -10,6 +10,6 @@ In all the files, the parameters and the input is set at the beginning of the fi
 
 The CPU implementations are added with the "main_" file name and the rest of the file name is the same as the GPU counterpart for corresponding functions and comparisons.
 
-The execution can be simply done by using the following commmand with "file_name" representing one the Python file names in the repository:
+The execution can be simply done by using the following commmand, with "file_name" representing one the Python file names in the repository:
 
 python file_name.py
