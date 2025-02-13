@@ -1,4 +1,4 @@
-# mmi713_project
+# Parallel Programming for Local Maxima Finding
 
 This repository includes the MMI713 Applied Parallel Programming on GPU Course term project files of Gazi Eren Tuncay, regarding an implementation of local maxima finding algorithm on CPU and GPU.
 
